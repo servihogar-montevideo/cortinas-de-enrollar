@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://servihogar-montevideo.github.io/cortinas-de-enrollar/sitemap.xml
